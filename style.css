@@ -1,0 +1,124 @@
+body{
+    margin: 0px ;
+}
+.redes-sociales{
+    margin: 0px;
+}
+
+.redes-sociales{
+    background-color: rgb(129, 2, 2);
+    height: 40px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color:rgb(255, 255, 255);
+}
+    
+.contenedor-redes a{
+    color: white;
+}
+    
+nav{
+    height: 55px;
+    background-color:rgb(202, 0, 0);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: sans-serif;
+}
+    
+nav .menu-navegacion ul{
+    display: flex;
+    list-style: none;
+    font-family: sans-serif;
+    font-size: 15px;
+    color: white;
+}
+    
+nav .logotipo-header img{
+    height: 50px;
+}
+    
+nav .menu ul{
+    display: flex;
+    list-style: none;
+    font-family: 'Ubuntu Mono', monospace;
+}
+    
+nav .menu ul li{
+    margin-right: 30px;
+}
+    
+.menu a{
+    text-decoration: none;
+    color:rgb(255, 255, 255);
+    height: 40px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.contenedor-redes a{
+    color: white;
+}
+
+nav{
+    height: 55px;
+    background-color:rgb(202, 0, 0);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: sans-serif;
+}
+
+nav .menu-navegacion ul{
+    display: flex;
+    list-style: none;
+    font-family: sans-serif;
+    font-size: 15px;
+    color: rgb(255, 255, 255);
+}
+
+nav .menu ul{
+    display: flex;
+    list-style: none;
+    font-family: 'Ubuntu Mono', monospace;
+}
+
+nav .menu ul li{
+    margin-right: 30px;
+}
+
+.menu a{
+    text-decoration: none;
+    color:rgb(0, 0, 0)
+}
+
+.datos-personales{
+    display: flex;
+    justify-content: center;
+    margin: 10px;
+    font-family: monospace;
+    font-size: 15px;
+}
+
+.foto{
+    text-align: center;
+    width: 600px;
+    margin: 15px;
+}
+
+.datos-personales a{
+    color:rgb(129, 2, 2);
+}
+
+.autor{
+    background-color: rgb(129, 2, 2);
+    height: 40px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color:rgb(255, 255, 255);
+    font-family: monospace;
+    font-size: 15px;
+}

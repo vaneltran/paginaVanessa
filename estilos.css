@@ -1,0 +1,173 @@
+body{
+    margin: 0px ;
+}
+.redes-sociales{
+    margin: 0px;
+}
+
+.redes-sociales{
+    background-color:  rgb(129, 2, 2);
+    height: 40px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color:rgb(255, 255, 255);
+}
+    
+.contenedor-redes a{
+    color: white;
+}
+    
+nav{
+    height: 55px;
+    background-color:rgb(202, 0, 0);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: sans-serif;
+}
+    
+nav .menu-navegacion ul{
+    display: flex;
+    list-style: none;
+    font-family: sans-serif;
+    font-size: 15px;
+    color: white;
+}
+    
+nav .logotipo-header img{
+    height: 50px;
+}
+    
+nav .menu ul{
+    display: flex;
+    list-style: none;
+    font-family: 'Ubuntu Mono', monospace;
+}
+    
+nav .menu ul li{
+    margin-right: 30px;
+}
+    
+.menu a{
+    text-decoration: none;
+    color:rgb(0, 0, 0);
+    height: 40px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color:rgb(255, 255, 255);
+}
+
+.contenedor-redes a{
+    color: white;
+}
+
+nav{
+    height: 55px;
+    background-color:rgb(202, 0, 0);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: sans-serif;
+}
+
+nav .menu-navegacion ul{
+    display: flex;
+    list-style: none;
+    font-family: sans-serif;
+    font-size: 15px;
+    color: white;
+}
+
+nav .menu ul{
+    display: flex;
+    list-style: none;
+    font-family: 'Ubuntu Mono', monospace;
+}
+
+nav .menu ul li{
+    margin-right: 30px;
+}
+
+.menu a{
+    text-decoration: none;
+    color:rgb(0, 0, 0)
+}
+
+.principal{
+    justify-content: center;
+    display: flex;
+    align-items: center;
+}
+
+.imagen{
+    margin: 15px;
+}
+
+.texto{
+    font-family: monospace;
+    font-size: 15px;
+}
+
+.boton{
+   background-color:rgb(129, 2, 2);
+   size: 30px;
+   border-radius: 15px;
+}
+
+.boton a{
+    font-family: monospace;
+    text-decoration: none;
+    color: black;
+    font-size: 20px;
+}
+
+.ult{
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    font-family: monospace;
+    font-size: 15px;
+    margin: 15px;
+}
+
+.info{
+    margin: 15px;
+}
+
+.proyectos{
+    margin: 15px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.proyectos a{
+    text-decoration: none;
+    color: grey;
+}
+
+.foto-pro{
+    margin: 10px;
+}
+
+.bloque{
+    text-align:center;
+    border-width:2px;
+    border-color:rgb(129, 2, 2);
+    border-style:solid;
+    font-family: monospace;
+    font-size: 15px;
+    margin: 15px;
+}
+
+.bloque button{
+    background-color:white;
+    color: gray;
+    font-size: 15px;
+    font-family: monospace;
+    margin: 0px;
+    margin-bottom: 10px;
+    border-radius: 15px;
+}

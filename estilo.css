@@ -1,0 +1,108 @@
+body{
+    margin: 0px ;
+}
+.redes-sociales{
+    background-color: rgb(129, 2, 2);
+    height: 40px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color:rgb(255, 255, 255);
+}
+
+.contenedor-redes a{
+    color: white;
+}
+
+nav{
+    height: 55px;
+    background-color:rgb(202, 0, 0);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: sans-serif;
+}
+
+nav .menu-navegacion ul{
+    display: flex;
+    list-style: none;
+    font-family: sans-serif;
+    font-size: 15px;
+    color: white;
+}
+
+nav .logotipo-header img{
+    height: 50px;
+}
+
+nav .menu ul{
+    display: flex;
+    list-style: none;
+    font-family: 'Ubuntu Mono', monospace;
+}
+
+nav .menu ul li{
+    margin-right: 30px;
+}
+
+.menu a{
+    text-decoration: none;
+    color:rgb(0, 0, 0)
+}
+
+.principal{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: monospace;
+    font-size: 55px;
+
+}
+
+.secundario{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: monospace;
+    font-size: 15px;
+}
+
+.info{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.subtitle{
+    justify-content: left;
+    align-items: left;
+    font-family: monospace;
+    font-size: 25px;
+    margin: 15px;
+}
+
+.texto{
+    justify-content: left;
+    align-items: left;
+    font-family: monospace;
+    font-size: 15px;
+    margin: 15px;
+}
+
+.imagen{
+    margin: 15px;
+}
+
+.final{
+    display: flex;
+    height: 100px;
+    justify-content: left;
+    align-items: left;
+    margin: 20px;
+}
+
+.nombre{
+    font-family: monospace;
+    font-size: 10px;
+    margin: 10px;
+}

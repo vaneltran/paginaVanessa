@@ -1,0 +1,107 @@
+body{
+    margin: 0px ;
+}
+.redes-sociales{
+    background-color: rgb(129, 2, 2);
+    height: 40px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color:rgb(255, 255, 255);
+}
+
+.contenedor-redes a{
+    color: white;
+}
+
+nav{
+    height: 55px;
+    background-color:rgb(202, 0, 0);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: monospace;
+}
+
+nav .menu-navegacion ul{
+    display: flex;
+    list-style: none;
+    font-family: monospace;
+    font-size: 15px;
+    color: white;
+}
+
+nav .logotipo-header img{
+    height: 50px;
+}
+
+nav .menu ul{
+    display: flex;
+    list-style: none;
+    font-family: monospace;
+    font-size: 15px;
+}
+
+nav .menu ul li{
+    margin-right: 30px;
+    font-size: 15px;
+}
+
+.menu a{
+    text-decoration: none;
+    color:rgb(0, 0, 0)
+}
+
+.principal{
+    height: 600px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-image: url("fondo.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    color: cornsilk;
+}
+
+.nombre{
+    font-family: monospace;
+    font-size: 55px;
+    color:cornsilk;
+}
+
+.inicio{
+    text-align: center;
+    justify-content: center;
+    margin: 5px;
+    font-family: monospace;
+    font-size: 10px;
+}
+
+.boton{
+    text-decoration: none;
+    background-color: cornsilk;
+    color: rgb(129, 2, 2);
+    font-family: monospace;
+    font-size: 25px;
+    border-radius: 50px;
+}
+
+.boton a{
+    text-decoration: none;
+    font-size: 20px;
+    color: black;
+    font-family: monospace;
+}
+
+
+.footer{
+    height: 80px;
+    background-color:rgb(202, 0, 0);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: monospace;
+    font-size: 15px;
+}
+
